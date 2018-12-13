@@ -1,0 +1,9 @@
+name: fizz_buzz
+version: 0.1.0
+cpp_version: 11
+owners:
+  - takagiy
+
+build:
+  system: poac
+  bin: true
