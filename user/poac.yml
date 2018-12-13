@@ -1,0 +1,12 @@
+name: fizz_buzz_user
+version: 0.1.0
+cpp_version: 17
+owners:
+  - takagiy
+deps:
+  takagiy/poac-single-header-example:
+    src: github
+    tag: v0.1.0
+build:
+  system: poac
+  bin: true
